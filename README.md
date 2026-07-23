@@ -6,8 +6,8 @@
 	5	Vasya and Book - https://codeforces.com/problemset/problem/1082/A  
 	6	Game with string - https://codeforces.com/problemset/problem/1104/B  
 ## Linear Search	  
- 	7	Horror Dash
-	8	Parking
+ 	7	Horror Dash - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2899  
+	8	Parking - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2349  
 	9	Games
 	10	Next Round
 	11	The Playboy Chimp
@@ -78,11 +78,11 @@
 	72	Coin Change (I)
 	73	Making Change
 ## Easy Problems (Just to raise solve count)	
-  	74	Way Too Long Words - **codeforces 71A**  
-	75	In Search of an Easy Problem - **codeforces 1030A**  
-	76	Helpful Maths - **codeforces 339A**  
-	77	Restoring Three Numbers
-	78	Two Buttons
+  	74	Way Too Long Words - https://codeforces.com/problemset/problem/71/A   
+	75	In Search of an Easy Problem - https://codeforces.com/problemset/problem/1030/A    
+	76	Helpful Maths - https://codeforces.com/problemset/problem/339/A  
+	77	Restoring Three Numbers - https://codeforces.com/problemset/problem/1154/A
+	78	Two Buttons - https://codeforces.com/problemset/problem/520/B  
 	79	A and B and Compilation Errors
 	80	Combination Lock
 	81	Night at the Museum
