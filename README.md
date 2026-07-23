@@ -1,18 +1,124 @@
-# Problem List:
-## Adhoc Problems
-**1. Alex and a rhombus :** https://vjudge.net/contest/575128#problem/A
-**2. Palindromic Numbers (II) :** https://vjudge.net/contest/575128#problem/A
-**3. Lift :** https://vjudge.net/contest/575128#problem/C
-**4. There are two types of Burgers :** https://vjudge.net/contest/575128#problem/D
-**5. Vasya and Book (1082A) :** https://vjudge.net/contest/575128#problem/E
-**6. Game with string :** https://vjudge.net/contest/575128#problem/F
-## Linear Search
-**7. Horror Dash :** https://vjudge.net/contest/575132#problem/A
-**8. Parking:** https://vjudge.net/contest/575132#problem/A
-**9. Games:** https://vjudge.net/contest/575132#problem/C
-**10. Next Round:** https://vjudge.net/contest/575132#problem/D
-**11. The Playboy Chimp:** https://vjudge.net/contest/575132#problem/E
-**12. Open Credit System:** https://vjudge.net/contest/575132#problem/F
-**13. Bear and Segment 01:** https://vjudge.net/contest/575132#problem/G
-**14. Phone Numbers:** https://vjudge.net/contest/575132#problem/H
-**15. Lucky Division:** https://vjudge.net/contest/575132#problem/I
+## Adhoc
+  1	Alex and a Rhombus
+	2	Palindromic Numbers (II)
+	3	Lift
+	4	There Are Two Types Of Burgers
+	5	Vasya and Book
+	6	Game with string
+## Linear Search	
+  7	Horror Dash
+	8	Parking
+	9	Games
+	10	Next Round
+	11	The Playboy Chimp
+	12	Open Credit System
+	13	Bear and Segment 01
+	14	Phone Numbers
+	15	Lucky Division
+## Binary Search	
+  16	The Monkey and the Oiled Bamboo
+	17	Helping Fill Bates
+	18	Exact Sum
+	19	Popes
+	20	Solve It
+	21	Points in Segments
+	22	Get the Containers
+	23	Worms
+	24	Counting Kangaroos is Fun
+	25	More Cowbell
+	26	Hackerland Radio Transmitters
+## Sorting                               [N.B.: Use any sort you like except STL sorts]	
+  27	Inversion Count
+	28	Bubbles and Buckets
+	29	Teams Forming
+	30	Ultra-QuickSort
+	31	Helpful Maths
+	32	Train Swapping
+	33	Polycarp Training
+	34	Age Sort
+	35	Parity Alternated Deletions
+	36	Flip Sort
+	37	A Match Making Problem
+## Greedy	
+  38	Peter's Smokes
+	39	Scarecrow
+	40	The Bus Driver Problem
+	41	Matryoshka Dolls
+	42	Two Operations
+	43	Wrong Subtraction
+	44	Drinks Choosing
+	45	Minimize the Permutation
+	46	Prime Minister
+	47	Azamon Web Services
+## DP (knapsack, Coin Change, Number of ways Coin change, LCS, LIS)	
+  48	Knapsack 1
+	49	Testing the CATCHER
+	50	Vacation
+	51	Boxes
+	52	Trainsorting
+	53	LCS
+	54	Longest Common Subsequence
+	55	Wedding shopping
+	56	Frog 1
+	57	Frog 2
+	58	Monkey Banana Problem
+	59	Neighbor House
+	60	SuperSale
+	61	Dividing coins
+	62	Dollars
+	63	Longest Match
+	64	The Twin Towers
+	65	Vacation
+	66	Large Knapsack
+	67	Longest Ordered Subsequence
+	68	Wavio Sequence
+	69	Exact Change
+	70	Let Me Count The Ways
+	71	Ingenuous Cubrency
+	72	Coin Change (I)
+	73	Making Change
+## Easy Problems (Just to raise solve count)	
+  74	Way Too Long Words - **codeforces 71A**
+	75	In Search of an Easy Problem - **codeforces 1030A**
+	76	Helpful Maths - **codeforces 339A**
+	77	Restoring Three Numbers
+	78	Two Buttons
+	79	A and B and Compilation Errors
+	80	Combination Lock
+	81	Night at the Museum
+	82	IP Checking
+	83	Dragon of Loowater
+	84	IQ test
+	85	Yet Another Tetris Problem
+	86	Wine trading in Gergovia
+	87	Repeating Cipher
+	88	Teams Forming
+	89	Shooting
+	90	From Hero to Zero
+## Basic Graph
+  91	Vertex
+	92	The Seasonal War
+	93	As Long as I Learn, I Live
+	94	Counting Cells in a Blob
+	95	Wetlands of Florida
+	96	Easy Problem from Rujia Liu?
+	97	Graph Connectivity
+	98	Bicoloring
+	99	Il Gioco dell'X
+	100	Square Sums
+	101	Guilty Prince
+	102	A Node Too Far
+	103	Knight Moves
+	104	Oil Deposits
+	105	迷宫问题
+	106	Dungeon Master
+	107	Bombs! NO they are Mines!!
+	108	Back to Underworld
+	109	Power Puff Girls
+	110	Risk
+	111	Rumor
+	112	Send the Fool Further! (easy)
+	113	Farthest Nodes in a Tree
+	114	Filling the Regions
+	115	Forwarding Emails
+	116	Catch That Cow
