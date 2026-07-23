@@ -1,0 +1,31 @@
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int main() {
+
+    string s;
+    cin >> s;
+    
+    int count = 0;
+    int slow = 0;
+    
+    for (int fast = 0; fast < s.length(); fast++) {
+        if (slow > 0 && s[slow - 1] == s[fast]) {
+            slow--; 
+            count++;
+        } else {
+            s[slow] = s[fast];
+            slow++;
+        }
+    }
+    if (count % 2 == 1) {
+        cout << "Yes\n";
+    } else {
+        cout << "No\n";
+    }
+    
+    return 0;
+}
