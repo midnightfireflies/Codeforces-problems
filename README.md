@@ -1,12 +1,12 @@
 ## Adhoc
-  1	Alex and a Rhombus
-	2	Palindromic Numbers (II)
-	3	Lift
-	4	There Are Two Types Of Burgers
-	5	Vasya and Book
-	6	Game with string
-## Linear Search	
-  7	Horror Dash
+ 	1	Alex and a Rhombus - https://codeforces.com/problemset/problem/1180/A  
+	2	Palindromic Numbers (II) - https://lightoj.com/problem/palindromic-numbers-ii  
+	3	Lift - https://lightoj.com/problem/lift  
+	4	There Are Two Types Of Burgers - https://codeforces.com/problemset/problem/1207/A  
+	5	Vasya and Book - https://codeforces.com/problemset/problem/1082/A  
+	6	Game with string - https://codeforces.com/problemset/problem/1104/B  
+## Linear Search	  
+ 	7	Horror Dash
 	8	Parking
 	9	Games
 	10	Next Round
@@ -16,7 +16,7 @@
 	14	Phone Numbers
 	15	Lucky Division
 ## Binary Search	
-  16	The Monkey and the Oiled Bamboo
+  	16	The Monkey and the Oiled Bamboo
 	17	Helping Fill Bates
 	18	Exact Sum
 	19	Popes
@@ -28,7 +28,7 @@
 	25	More Cowbell
 	26	Hackerland Radio Transmitters
 ## Sorting                               [N.B.: Use any sort you like except STL sorts]	
-  27	Inversion Count
+  	27	Inversion Count
 	28	Bubbles and Buckets
 	29	Teams Forming
 	30	Ultra-QuickSort
@@ -40,7 +40,7 @@
 	36	Flip Sort
 	37	A Match Making Problem
 ## Greedy	
-  38	Peter's Smokes
+  	38	Peter's Smokes
 	39	Scarecrow
 	40	The Bus Driver Problem
 	41	Matryoshka Dolls
@@ -51,7 +51,7 @@
 	46	Prime Minister
 	47	Azamon Web Services
 ## DP (knapsack, Coin Change, Number of ways Coin change, LCS, LIS)	
-  48	Knapsack 1
+  	48	Knapsack 1
 	49	Testing the CATCHER
 	50	Vacation
 	51	Boxes
@@ -78,9 +78,9 @@
 	72	Coin Change (I)
 	73	Making Change
 ## Easy Problems (Just to raise solve count)	
-  74	Way Too Long Words - **codeforces 71A**
-	75	In Search of an Easy Problem - **codeforces 1030A**
-	76	Helpful Maths - **codeforces 339A**
+  	74	Way Too Long Words - **codeforces 71A**  
+	75	In Search of an Easy Problem - **codeforces 1030A**  
+	76	Helpful Maths - **codeforces 339A**  
 	77	Restoring Three Numbers
 	78	Two Buttons
 	79	A and B and Compilation Errors
@@ -96,7 +96,7 @@
 	89	Shooting
 	90	From Hero to Zero
 ## Basic Graph
-  91	Vertex
+  	91	Vertex
 	92	The Seasonal War
 	93	As Long as I Learn, I Live
 	94	Counting Cells in a Blob
