@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+#include <cmath>
+
+
+using namespace std;
+
+int main()
+{
+    // Optimize standard I/O operations for speed
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int n, total = 0, diff = 0;
+    cin >> n;
+    string s1;
+    string s2;
+    cin >> s1 >> s2;
+    for(int i = 0; i < n; i++)
+    {
+        diff = abs((s1[i]-'0') - (s2[i]-'0'));
+        diff = min(diff, 10 - diff);
+        total += diff;
+    }
+    cout << total << endl;
+
+    return 0;
+}
