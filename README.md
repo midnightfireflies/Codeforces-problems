@@ -83,7 +83,7 @@
 	76	Helpful Maths - https://codeforces.com/problemset/problem/339/A  
 	77	Restoring Three Numbers - https://codeforces.com/problemset/problem/1154/A
 	78	Two Buttons - https://codeforces.com/problemset/problem/520/B  
-	79	A and B and Compilation Errors
+	79	A and B and Compilation Errors - https://codeforces.com/problemset/problem/519/B  
 	80	Combination Lock
 	81	Night at the Museum
 	82	IP Checking
