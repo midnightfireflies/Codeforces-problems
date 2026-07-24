@@ -85,7 +85,7 @@
 	78	Two Buttons - https://codeforces.com/problemset/problem/520/B  
 	79	A and B and Compilation Errors - https://codeforces.com/problemset/problem/519/B  
 	80	Combination Lock - https://codeforces.com/problemset/problem/540/A  
-	81	Night at the Museum
+	81	Night at the Museum - https://codeforces.com/problemset/problem/731/A  
 	82	IP Checking
 	83	Dragon of Loowater
 	84	IQ test
