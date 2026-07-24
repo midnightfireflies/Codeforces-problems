@@ -86,7 +86,7 @@
 	79	A and B and Compilation Errors - https://codeforces.com/problemset/problem/519/B  
 	80	Combination Lock - https://codeforces.com/problemset/problem/540/A  
 	81	Night at the Museum - https://codeforces.com/problemset/problem/731/A  
-	82	IP Checking
+	82	IP Checking - https://lightoj.com/problem/ip-checking  
 	83	Dragon of Loowater
 	84	IQ test
 	85	Yet Another Tetris Problem
