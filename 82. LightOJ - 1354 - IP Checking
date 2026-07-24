@@ -1,0 +1,38 @@
+#include <iostream>
+#include <string>
+#include <bitset>
+
+using namespace std;
+
+int main() {
+    // Optimize standard I/O operations for speed
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+    int t;
+    cin >> t;
+    
+    for (int case_num = 1; case_num <= t; case_num++) {
+        char dot; // Used to read and ignore the "." characters
+        int d1, d2, d3, d4;
+        
+        // cin automatically skips dots when reading the next integer
+        cin >> d1 >> dot >> d2 >> dot >> d3 >> dot >> d4;
+        
+        // 2. Read Binary IP
+        // bitset<8> reads exactly 8 characters ('0' or '1') and converts them to an integer where 8 is the bit count.
+        bitset<8> b1, b2, b3, b4;
+        cin >> b1 >> dot >> b2 >> dot >> b3 >> dot >> b4;
+        
+        // 3. Compare
+        //to_ulong() is used for binary to decimal
+        if (d1 == b1.to_ulong() && d2 == b2.to_ulong() && 
+            d3 == b3.to_ulong() && d4 == b4.to_ulong()) {
+            cout << "Case " << case_num << ": Yes\n";
+        } else {
+            cout << "Case " << case_num << ": No\n";
+        }
+    }
+    
+    return 0;
+}
