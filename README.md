@@ -88,7 +88,7 @@
 	81	Night at the Museum - https://codeforces.com/problemset/problem/731/A  
 	82	IP Checking - https://lightoj.com/problem/ip-checking  
 	83	Dragon of Loowater - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2267  
-	84	IQ test
+	84	IQ test - https://codeforces.com/problemset/problem/25/A  
 	85	Yet Another Tetris Problem
 	86	Wine trading in Gergovia
 	87	Repeating Cipher
