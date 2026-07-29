@@ -91,7 +91,7 @@
 	84	IQ test - https://codeforces.com/problemset/problem/25/A  
 	86	Wine trading in Gergovia - https://vjudge.net/contest/575161#problem/M
 	87	Repeating Cipher - https://codeforces.com/problemset/problem/1095/A
-	88	Teams Forming - 
+	88	Teams Forming - https://codeforces.com/problemset/problem/1092/B
 	89	Shooting - 
 	90	From Hero to Zero - 
 ## Basic Graph
