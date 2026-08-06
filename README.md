@@ -15,7 +15,7 @@
 	13	Bear and Segment 01
 	14	Phone Numbers
 	15	Lucky Division
-## Binary Search	
+### Binary Search	
   	16	The Monkey and the Oiled Bamboo
 	17	Helping Fill Bates
 	18	Exact Sum
