@@ -8,7 +8,7 @@
 ## Linear Search	  
  	7	Horror Dash - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2899  
 	8	Parking - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2349  
-	9	Games
+	9	Games - https://vjudge.net/problem/CodeForces-268A
 	10	Next Round
 	11	The Playboy Chimp
 	12	Open Credit System
